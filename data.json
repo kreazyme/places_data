@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Bãi biển Xuân Thành",
+            "rating": 4,
+            "phone": "",
+            "address": "Xã Xuân Thành, huyện Nghi Xuân, tỉnh Hà Tĩnh",
+            "lat": "18.648374219035862",
+            "lng": "105.80477660904627",
+            "images": [
+                "https://wallpapers.com/images/hd/beautiful-place-pictures-4z0hjwoi8rjhlk1p.jpg"
+            ],
+            "description": "Bãi biển Xuân Thành có chiều dài trên 5km, với độ dốc vừa phải và cát trắng mịn. Nước biển ở đây không quá mặn, màu xanh trong vắt và tinh khiết. Bãi biển này vẫn giữ được vẻ đẹp hoang sơ, huyền bí và lãng mạn của sự kết hợp giữa núi, rừng và biển vô tận.\nĐiểm đặc biệt của bãi biển Xuân Thành chính là dòng sông nước ngọt Mỹ Dương chảy song song với biển, xuất phát từ núi Hồng Lĩnh và uốn lượn dọc theo bờ biển, với những hàng dừa tạo nên bóng mát suốt ngày đêm. Cả hai bên bờ sông được bao phủ bởi một thảm thực vật xanh tươi. Khi đứng trên cầu bắc qua sông, du khách sẽ được trầm mình ngắm nhìn vẻ đẹp bao la của biển cả và không gian tuyệt đẹp này."
+        },
+        {
+            "name": "Trường đua chó Xuân Thành",
+            "rating": 3,
+            "phone": "",
+            "address": "Xã Xuân Thành, huyện Nghi Xuân, tỉnh Hà Tĩnh",
+            "lat": "18.635899147679368",
+            "lng": "105.80845529843054",
+            "images": [
+                "https://wallpapers.com/images/hd/beautiful-place-pictures-4z0hjwoi8rjhlk1p.jpg"
+            ],
+            "description": "Khi đến Xuân Thành, du khách không chỉ có thể tận hưởng những giây phút vui đùa cùng biển, thưởng thức những món hải sản ngon lành mà còn có thể tham gia một hình thức giải trí sôi động và độc đáo - đua chó Greyhound.\nTrường đua chó tại đây đã được xây dựng và hoạt động theo tiêu chuẩn quốc tế, đồng thời tổ chức các sự kiện đặc biệt thường xuyên trong suốt năm. Điều này đảm bảo rằng cả người dân địa phương và du khách sẽ luôn có những trải nghiệm mới mẻ và thú vị khi đến đây vào những dịp cuối tuần và kỳ nghỉ."
+        },
+        {
+            "name": "Khu di tích quốc gia Nguyễn Du",
+            "rating": 5,
+            "phone": "",
+            "address": "Xã Tiên Điền, huyện Nghi Xuân, tỉnh Hà Tĩnh",
+            "lat": "18.664972680376586",
+            "lng": "105.76680833601009",
+            "images": [
+                "https://wallpapers.com/images/hd/beautiful-place-pictures-4z0hjwoi8rjhlk1p.jpg"
+            ],
+            "description": "Khu di tích Nguyễn Du thuộc quần thể di tích dòng họ Nguyễn tọa lạc tại Tiên Điền, Hà Tĩnh. Quần thể này gồm nhiều di tích quan trọng bao gồm đền thờ Đại Vương tiến sĩ Nguyễn Huệ, đền thờ Nguyễn Trọng và Nguyễn Nghiễm, khu mộ Đại thi hào Nguyễn Du, bảo tàng và nhà thờ Nguyễn Du,...\nĐến tham quan khu di tích lịch sử Nguyễn Du ở Hà Tĩnh, du khách trong và ngoài nước sẽ được nghe thuyết minh về khu di tích và khám phá những giá trị văn hóa lớn mà Đại thi hào và tác phẩm Truyện Kiều đã để lại. Đây là cơ hội để tìm hiểu sâu hơn về di sản văn hóa quan trọng và tận hưởng không gian lịch sử đầy cảm xúc."
+        }
+    ]
+}
