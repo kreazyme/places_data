@@ -4,8 +4,8 @@
         "rating": 4,
         "phone": "",
         "address": "Xã Xuân Thành, huyện Nghi Xuân, tỉnh Hà Tĩnh",
-        "lat": "18.648374219035862",
-        "lng": "105.80477660904627",
+        "lat": 18.648374219035862,
+        "lng": 105.80477660904627,
         "images": [
             "https://wallpapers.com/images/hd/beautiful-place-pictures-4z0hjwoi8rjhlk1p.jpg"
         ],
@@ -16,7 +16,7 @@
         "rating": 3,
         "phone": "",
         "address": "Xã Xuân Thành, huyện Nghi Xuân, tỉnh Hà Tĩnh",
-        "lat": "18.635899147679368",
+        "lat": 18.635899147679368,
         "lng": "105.80845529843054",
         "images": [
             "https://wallpapers.com/images/hd/beautiful-place-pictures-4z0hjwoi8rjhlk1p.jpg"
@@ -28,7 +28,7 @@
         "rating": 5,
         "phone": "",
         "address": "Xã Tiên Điền, huyện Nghi Xuân, tỉnh Hà Tĩnh",
-        "lat": "18.664972680376586",
+        "lat": 18.664972680376586,
         "lng": "105.76680833601009",
         "images": [
             "https://wallpapers.com/images/hd/beautiful-place-pictures-4z0hjwoi8rjhlk1p.jpg"
